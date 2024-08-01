@@ -1,6 +1,12 @@
 # Superstore - Sales Dashboard
 
 
+## Documentation
+
+You can download the documentation [here]([Online_sales_Report.pdf](https://github.com/user-attachments/files/16454314/Online_sales_Report.pdf)
+)
+
+
 ## Insights:
 
 - The dataset includes details about customer orders, including product information, sales, and profit margins.
